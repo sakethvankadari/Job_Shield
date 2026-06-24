@@ -168,8 +168,8 @@ beautifulsoup4
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+- GitHub: [sakethvankadari](https://github.com/sakethvankadari)
+
 
 ---
 
