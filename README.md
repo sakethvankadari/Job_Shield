@@ -4,7 +4,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-UI-red?logo=streamlit)
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-ML-orange?logo=scikit-learn)
 ![Accuracy](https://img.shields.io/badge/Accuracy-97.54%25-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-blue)
+![License](https://img.shields.io/badge/License-MIT-blue) 
 
 Job Shield is a Machine Learning web application that detects **fraudulent job postings** in real time. Paste a job URL or a job description, and the model instantly tells you whether the posting is **safe or suspicious** — along with a fraud probability score and risk level.
 
